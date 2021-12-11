@@ -29,8 +29,16 @@ body {
     font-size: 18px;
     font-family: 'Kumbh Sans', sans-serif;
     display: flex;
-    justify-content: center;
     align-items: center;
     min-height: 100vh
 }
 
+.container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+ .wrapper {
+    max-width: 420px;
+    background-color: #fff;
+}
