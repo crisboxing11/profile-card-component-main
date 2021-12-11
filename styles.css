@@ -25,11 +25,12 @@
 }
 
 body {
+    background-color: var(--Dark-cyan);
     font-size: 18px;
     font-family: 'Kumbh Sans', sans-serif;
-    background-color: var(--Dark-cyan);
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh
 }
 
-.container {
-}
