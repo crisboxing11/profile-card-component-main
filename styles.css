@@ -41,3 +41,7 @@ body {
   max-width: 420px;
   background-color: #fff;
 }
+
+.victor {
+  border-radius: 100%;
+}
