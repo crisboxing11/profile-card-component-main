@@ -43,6 +43,11 @@ body {
   border-radius: 1.2rem;
 }
 
+.card {
+  border-top-left-radius: 1.2rem;
+  border-top-right-radius: 1.2rem;
+}
+
 .victor {
   border-radius: 100%;
   border: 1px solid #fff;
