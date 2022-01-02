@@ -47,7 +47,9 @@ body {
 .card {
   border-top-left-radius: 1.2rem;
   border-top-right-radius: 1.2rem;
-  min-width: 100%;
+  min-width: 112%;
+  position: relative;
+  right: 22px;
 }
 
 .victor {
